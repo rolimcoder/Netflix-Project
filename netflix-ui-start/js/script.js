@@ -1,5 +1,5 @@
 (function() {
-  "use strict";
+
   
   let container = document.querySelector('.container-marcio'),
       list = document.querySelector('.list'),
